@@ -18,6 +18,10 @@ html {
     overflow: hidden;
 }
 
+body > div, .active-content, .transition-wrap {
+    height: 100%;
+}
+
 a {
     color: #FFF;
 }
