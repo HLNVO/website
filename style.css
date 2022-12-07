@@ -15,10 +15,13 @@ html {
     letter-spacing: 1px;
     width: 100vw;
     min-height: 100%;
+    height: 100%;
     overflow: hidden;
 }
 
-body > div, .active-content, .transition-wrap {
+body > div,
+.active-content,
+.transition-wrap {
     height: 100%;
 }
 
