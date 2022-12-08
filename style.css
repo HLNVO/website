@@ -209,6 +209,7 @@ h1 {
 
 .hvo-header h1 {
     font-weight: 400;
+    line-height: 1rem;
 }
 
 .row {
